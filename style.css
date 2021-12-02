@@ -24,7 +24,7 @@ body{
     animation-delay: var(--delay);
     background-color: #8DE4FF;
     height: 100px;
-    opacity: 0.9;
+    opacity: 0;
     position: absolute;
     width: 100px;
 }
