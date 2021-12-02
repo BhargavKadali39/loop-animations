@@ -19,7 +19,7 @@ body{
 
 
 .box{
-    --delay: 1s;
+    --delay: 0s;
     animation: loopp 10s linear infinite;
     animation-delay: var(--delay);
     background-color: #8DE4FF;
