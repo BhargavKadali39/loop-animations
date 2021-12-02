@@ -30,39 +30,39 @@ body{
 }
 
 .box:nth-child(2){
-    --delay: 2s;
+    --delay: 1s;
     opacity: 0;
 }
 .box:nth-child(3){
-    --delay: 3s;
+    --delay: 2s;
     opacity: 0;
 }
 .box:nth-child(4){
-    --delay: 4s;
+    --delay: 3s;
     opacity: 0;
 }
 .box:nth-child(5){
-    --delay: 5s;
+    --delay: 4s;
     opacity: 0;
 }
 .box:nth-child(6){
-    --delay: 6s;
+    --delay: 5s;
     opacity: 0;
 }
 .box:nth-child(7){
-    --delay: 7s;
+    --delay: 6s;
     opacity: 0;
 }
 .box:nth-child(8){
-    --delay: 8s;
+    --delay: 7s;
     opacity: 0;
 }
 .box:nth-child(9){
-    --delay: 9s;
+    --delay: 8s;
     opacity: 0;
 }
 .box:nth-child(10){
-    --delay: 10s;
+    --delay: 9s;
     opacity: 0;
 }
 
