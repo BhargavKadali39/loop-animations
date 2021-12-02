@@ -6,14 +6,6 @@ body{
     height: 98vh;
 }
 
-p{
-    margin: 0;
-    color: #000000;
-    animation: loopp ease-in 4.0s forwards;
-}
-
-
-
 .container{
     background: #32b188;
     border-radius: 16px;
@@ -39,30 +31,39 @@ p{
 
 .box:nth-child(2){
     --delay: 2s;
+    opacity: 0;
 }
 .box:nth-child(3){
     --delay: 3s;
+    opacity: 0;
 }
 .box:nth-child(4){
     --delay: 4s;
+    opacity: 0;
 }
 .box:nth-child(5){
     --delay: 5s;
+    opacity: 0;
 }
 .box:nth-child(6){
     --delay: 6s;
+    opacity: 0;
 }
 .box:nth-child(7){
     --delay: 7s;
+    opacity: 0;
 }
 .box:nth-child(8){
     --delay: 8s;
+    opacity: 0;
 }
 .box:nth-child(9){
     --delay: 9s;
+    opacity: 0;
 }
 .box:nth-child(10){
     --delay: 10s;
+    opacity: 0;
 }
 
 @keyframes loopp{
